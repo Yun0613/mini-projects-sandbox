@@ -40,7 +40,7 @@ Step 9: Create a bench by placing the grey tile (1x4) in front of the completed 
 
 ![](https://github.com/Yun0613/mini-projects-sandbox/blob/master/Lego%20Images/Screen%20Shot%202020-01-13%20at%2015.23.27.png)
 
-Step 10: Put the flowers on the Lego man’s left side.
+Step 10: Put the flowers on the Lego man’s left side at the edge of the base plate.
 
 ![](https://github.com/Yun0613/mini-projects-sandbox/blob/master/Lego%20Images/Screen%20Shot%202020-01-13%20at%2015.23.45.png)
 
